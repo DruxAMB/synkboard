@@ -1,2 +1,2 @@
 # synkboard
-ethglobal project
+Ethiopia Builders Residency
